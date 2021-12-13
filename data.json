@@ -1,0 +1,446 @@
+{
+    "cornerExhibits": [
+        {
+            "id": 1,
+            "exhibits": [
+                {
+                    "exhibitID": 1,
+                    "title": "American Spaces Exhibit 1",
+                    "description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibits1/USCapitol.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/LincolnMemorial.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WhiteHouse.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WorldWar2Memorial.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WorldWar2memorialPark.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 2,
+                    "title": "American Spaces Exhibit 2",
+                    "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibits2/BasilicaOfTheImmaculate.jpg",
+                        "../../.././Images/american_exhibits/Exhibits2/ResidenceOfGenWilliam.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 3,
+                    "title": "American Spaces Exhibit 3",
+                    "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit3/GoldenGateBridge.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/GriffithObservatory.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/OaklandBayBrindge.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/SfCableCar.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/SfSkyline.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 4,
+                    "title": "American Spaces Exhibit 4",
+                    "description": "4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit4/BukingHamFountain.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/ChicagoRiver.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/CloudGate.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/CRailSystem.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/FieldMuseum.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 5,
+                    "title": "American Spaces Exhibit 5",
+                    "description": "5 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit5/Flagstaff.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/MilleniumPark.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/NapaValley.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/NySkyline.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/PetersonAutomativeMuseum.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/PublicArt.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/Flagstaff.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 6,
+                    "title": "American Spaces Exhibit 6",
+                    "description": "6 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit6/JacksonPoint.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/LakeTahoe.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/LakeTahoeShore.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/VillageLakeTahoe.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 7,
+                    "title": "American Spaces Exhibit 7",
+                    "description": "7 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit7/HalfDone.jpg",
+                        "../../.././Images/american_exhibits/Exhibit7/YosemiteFalls.jpg",
+                        "../../.././Images/american_exhibits/Exhibit7/YosemiteFallsTop.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 8,
+                    "title": "American Spaces Exhibit 8",
+                    "description": "8 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon1.jpg",
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon2.jpg",
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon3.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 9,
+                    "title": "American Spaces Exhibit 9",
+                    "description": "9 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley1.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley2.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley3.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/WideAngle.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 10,
+                    "title": "American Spaces Exhibit 10",
+                    "description": "10 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit10/AntelopeCanyon.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/BuskillFalls.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/Carmel.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/ElephantsFeet.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/EmeraldBay.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/EntranceAntelope.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/GrandCanyon.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/HorseshoeBend.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/Threepatriarchs.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/WelcomeArch.jpg"
+                    ]
+                }
+            ],
+            "title": "American Spaces Exhibits",
+            "PanoramicImg": [
+                "360-1.jpg",
+                "360-2.jpg",
+                "360-3.jpg",
+                "360-4.jpg",
+                "360-5.jpg",
+                "360-6.png"
+            ]
+        },
+        {
+            "id": 2,
+            "exhibits": [
+                {
+                    "exhibitID": 1,
+                    "title": "Filipiniana 1",
+                    "description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibits1/USCapitol.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/LincolnMemorial.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WhiteHouse.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WorldWar2Memorial.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WorldWar2memorialPark.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 2,
+                    "title": "Filipiniana 2",
+                    "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibits2/BasilicaOfTheImmaculate.jpg",
+                        "../../.././Images/american_exhibits/Exhibits2/ResidenceOfGenWilliam.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 3,
+                    "title": "Filipiniana 3",
+                    "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit3/GoldenGateBridge.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/GriffithObservatory.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/OaklandBayBrindge.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/SfCableCar.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/SfSkyline.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 4,
+                    "title": "Filipiniana 4",
+                    "description": "4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit4/BukingHamFountain.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/ChicagoRiver.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/CloudGate.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/CRailSystem.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/FieldMuseum.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 5,
+                    "title": "Filipiniana 5",
+                    "description": "5 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibits2/BasilicaOfTheImmaculate.jpg",
+                        "../../.././Images/american_exhibits/Exhibits2/ResidenceOfGenWilliam.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 6,
+                    "title": "Filipiniana 6",
+                    "description": "6 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit6/JacksonPoint.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/LakeTahoe.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/LakeTahoeShore.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/VillageLakeTahoe.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 7,
+                    "title": "Filipiniana 7",
+                    "description": "7 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit7/HalfDone.jpg",
+                        "../../.././Images/american_exhibits/Exhibit7/YosemiteFalls.jpg",
+                        "../../.././Images/american_exhibits/Exhibit7/YosemiteFallsTop.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 8,
+                    "title": "Filipiniana 8",
+                    "description": "8 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon1.jpg",
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon2.jpg",
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon3.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 9,
+                    "title": "Filipiniana 9",
+                    "description": "9 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley1.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley2.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley3.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/WideAngle.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 10,
+                    "title": "Filipiniana 10",
+                    "description": "10 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit10/AntelopeCanyon.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/BuskillFalls.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/Carmel.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/ElephantsFeet.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/EmeraldBay.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/EntranceAntelope.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/GrandCanyon.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/HorseshoeBend.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/Threepatriarchs.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/WelcomeArch.jpg"
+                    ]
+                }
+            ],
+            "title": "Filipiniana Exhibits",
+            "PanoramicImg": [
+                "360-2.jpg",
+                "360-3.jpg",
+                "360-4.jpg",
+                "360-5.jpg",
+                "360-6.png",
+                "360-1.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "exhibits": [
+                {
+                    "exhibitID": 1,
+                    "title": "General Exhibit 1",
+                    "description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibits1/USCapitol.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/LincolnMemorial.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WhiteHouse.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WorldWar2Memorial.jpg",
+                        "../../.././Images/american_exhibits/Exhibits1/WorldWar2memorialPark.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 2,
+                    "title": "General 2",
+                    "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibits2/BasilicaOfTheImmaculate.jpg",
+                        "../../.././Images/american_exhibits/Exhibits2/ResidenceOfGenWilliam.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 3,
+                    "title": "General 3",
+                    "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit3/GoldenGateBridge.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/GriffithObservatory.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/OaklandBayBrindge.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/SfCableCar.jpg",
+                        "../../.././Images/american_exhibits/Exhibit3/SfSkyline.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 4,
+                    "title": "General 4",
+                    "description": "4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit4/BukingHamFountain.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/ChicagoRiver.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/CloudGate.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/CRailSystem.jpg",
+                        "../../.././Images/american_exhibits/Exhibit4/FieldMuseum.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 5,
+                    "title": "General 5",
+                    "description": "5 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit5/Flagstaff.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/MilleniumPark.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/NapaValley.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/NySkyline.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/PetersonAutomativeMuseum.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/PublicArt.jpg",
+                        "../../.././Images/american_exhibits/Exhibit5/Flagstaff.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 6,
+                    "title": "General 6",
+                    "description": "6 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit6/JacksonPoint.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/LakeTahoe.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/LakeTahoeShore.jpg",
+                        "../../.././Images/american_exhibits/Exhibit6/VillageLakeTahoe.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 7,
+                    "title": "General 7",
+                    "description": "7 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit7/HalfDone.jpg",
+                        "../../.././Images/american_exhibits/Exhibit7/YosemiteFalls.jpg",
+                        "../../.././Images/american_exhibits/Exhibit7/YosemiteFallsTop.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 8,
+                    "title": "General 8",
+                    "description": "8 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon1.jpg",
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon2.jpg",
+                        "../../.././Images/american_exhibits/Exhibit8/BryceCanyon3.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 9,
+                    "title": "General 9",
+                    "description": "9 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley1.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley2.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/MonumentValley3.jpg",
+                        "../../.././Images/american_exhibits/Exhibit9/WideAngle.jpg"
+                    ]
+                },
+                {
+                    "exhibitID": 10,
+                    "title": "General 10",
+                    "description": "10 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                    "images": [
+                        "../../.././Images/american_exhibits/Exhibit10/AntelopeCanyon.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/BuskillFalls.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/Carmel.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/ElephantsFeet.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/EmeraldBay.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/EntranceAntelope.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/GrandCanyon.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/HorseshoeBend.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/Threepatriarchs.jpg",
+                        "../../.././Images/american_exhibits/Exhibit10/WelcomeArch.jpg"
+                    ]
+                }
+            ],
+            "title": "General Exhibits",
+            "PanoramicImg": [
+              
+                "360-3.jpg",
+                "360-4.jpg",
+                "360-5.jpg",
+                "360-6.png",
+                "360-1.jpg",
+                "360-2.jpg"
+            ]
+        }
+    ],
+    "Announcements": [
+        {
+            "id": 1,
+            "Name": "Patrick",
+            "ProfilePic": "../../.././Images/ProfilePic/dp1.jfif",
+            "Subject": "Announcement Subject",
+            "Announcement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum patrick  deserunt mollit anim id est laborum patrick.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum patrick  deserunt mollit anim id est laborum patrick.",
+            "Date": "November 19, 2021"
+        },
+        {
+            "id": 2,
+            "Name": "Kaith",
+            "ProfilePic": "../../.././Images/ProfilePic/dp2.jfif",
+            "Subject": "Announcement Subject",
+            "Announcement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Date": "November 19, 2021"
+        },
+        {
+            "id": 3,
+            "Name": "Emelisa",
+            "ProfilePic": "../../.././Images/ProfilePic/rafols.jfif",
+            "Subject": "Announcement Subject",
+            "Announcement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Date": "November 19, 2021"
+        },
+        {
+            "id": 4,
+            "Name": "Raven",
+            "ProfilePic": "../../.././Images/ProfilePic/raven.jpg",
+            "Subject": "Announcement Subject",
+            "Announcement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Date": "November 19, 2021"
+        },
+        {
+            "id": 5,
+            "Name": "Arnold",
+            "ProfilePic": "../../.././Images/ProfilePic/dp1.jfif",
+            "Subject": "Announcement Subject",
+            "Announcement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Date": "November 19, 2021"
+        },
+        {
+            "id": 6,
+            "Name": "Oscar",
+            "ProfilePic": "../../.././Images/ProfilePic/dp1.jfif",
+            "Subject": "Announcement Subject",
+            "Announcement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Date": "November 19, 2021"
+        }
+    ]
+}
